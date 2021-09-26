@@ -22,7 +22,7 @@ local ADDON_ADVERTISING_COLOR_TWO = "|cFFFF0000"
 local MISSING_RANK_SESSION = {}
 
 -- ====================================================================================================
--- =                          Print finction so all prints will be the same.                          =
+-- =                          Print function so all prints will be the same.                          =
 -- ====================================================================================================
 
 local function PRINT_TEXT(str)
