@@ -1,4 +1,4 @@
-## Interface: 20501
+## Interface: 20502
 ## Title: Pet Abilities |cd0ff7d0aBy Subby|r (Ver. 2.0.r3)
 ## Version: 2.0.r3
 ## Author: Subby of Pyrewood Village [Horde]
