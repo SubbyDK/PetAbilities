@@ -1,0 +1,29 @@
+## Interface: 20501
+## Title: Pet Abilities |cd0ff7d0aBy Subby|r (Ver. 2.0.r3)
+## Version: 2.0.r3
+## Author: Subby of Pyrewood Village [Horde]
+## Notes: Show what abilities you can learn from mobs by mouseover. (/lh)
+## Description: Show what abilities you can learn from mobs by mouseover. (/lh)
+## Description-deDE: Show what abilities you can learn from mobs by mouseover. (/lh)
+## Description-frFR: Show what abilities you can learn from mobs by mouseover. (/lh)
+## Description-esES: Show what abilities you can learn from mobs by mouseover. (/lh)
+## Description-esMX: Show what abilities you can learn from mobs by mouseover. (/lh)
+## Description-itIT: Show what abilities you can learn from mobs by mouseover. (/lh)
+## Description-koKR: Show what abilities you can learn from mobs by mouseover. (/lh)
+## Description-ptBR: Show what abilities you can learn from mobs by mouseover. (/lh)
+## Description-ruRU: Show what abilities you can learn from mobs by mouseover. (/lh)
+## Description-zhCN: Show what abilities you can learn from mobs by mouseover. (/lh)
+## Description-zhTW: Show what abilities you can learn from mobs by mouseover. (/lh)
+##
+## Dependencies:
+## SavedVariablesPerCharacter: PA_PREFS, PA_KNOWN_ABILITIES
+## X-Category: Hunter
+
+# All lists have to be in the beginning so they load first.
+PetAbilitiesList.lua
+
+# Load the "core" of the addon now as there is a lot of preference in that one.
+PetAbilities.lua
+
+# All the rest of the small addons will load here.
+
