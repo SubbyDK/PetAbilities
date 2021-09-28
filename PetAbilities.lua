@@ -1,7 +1,7 @@
 --[[
 	ToDo list
         ✓ Get the addon up and running and uploaded.
-        ✓ Make colors depending on we know ability or not.
+        ✓ Make colors depending on if we know ability or not.
         ✓ Make a check for the right version so we don't mix Classic and TBC
         Make a slash command to check what we still miss.
         Get someone to translate the few things there need that.
