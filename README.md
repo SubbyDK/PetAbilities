@@ -25,4 +25,5 @@ None right now.
 ## Bug reports.
 
 Try to be as accurate as possible when reporting an error.
+
 If you have any improvements, please let me know.
